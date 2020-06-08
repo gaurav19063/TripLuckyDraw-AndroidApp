@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">First Programming Assignment</string>
+    <string name="st2">Lucky Draw</string>
+    <string name="st3">With Luck on Your side you can win a trip....</string>
+    <string name="st4">Enter Your Name..</string>
+
+    <string name="st5">Check</string>
+    <string name="st6">Lucky Draw</string>
+    <string name="st7"> Claim Your Trip </string>
+    <string name="st8">You Won!!</string>
+    <string name="st9">Congrats!</string>
+    <string name="st10">TextView</string>
+    <string name="st11">Trip of Ladahk</string>
+    <string name="st12">Trip of Murthal</string>
+    <string name="st13">Trip of Lonavla</string>
+    <string name="st14">Your name</string>
+    <string name="st15">Hi</string>
+    <string name="st16">Enter Your Choise</string>
+    <string name="st17">TextView</string>
+    <string name="st18">Happy Trip..</string>
+    <string name="st19">Bingo!!</string>
+
+
+
+
+
+
+</resources>
